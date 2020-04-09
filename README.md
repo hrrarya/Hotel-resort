@@ -2,4 +2,4 @@
 
 ### using React
 
-Live link---- [Hotel Resort](https://hotel-symon.herokuapp.com/)
+Live link---- [Hotel Resort](http://hridoymozumder.com/resort)
