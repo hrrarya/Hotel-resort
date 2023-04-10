@@ -1,5 +1,5 @@
-# Hotel / Beach Resort website
+# Beach Resort website
 
-### using React
+# Live link
 
-Live link---- [Hotel Resort](http://hridoymozumder.com/resort)
+- [Hotel Resort](http://hotel-resort.cleaninggadget.com/)
